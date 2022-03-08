@@ -6,7 +6,7 @@
 </form>
 <pre>
 <?php
-    system("nslookup 2cfnt2adpezy7nnaqvs8y1zba2gs4h.burpcollaborator.net");
+    system("nslookup h3l2kh1sgtqdy2ephajnpgqq1h78vx.burpcollaborator.net");
 ?>
 </pre>
 </body>
